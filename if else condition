@@ -1,0 +1,23 @@
+for if condition: pass or fail, above 40 is passed.
+#include<stdio.h>
+int main() {
+int marks;
+printf("enter marks= \n");
+scanf("%d",&marks);
+if(marks>=40);
+{ printf("passed\n"); }
+return 0;
+}
+here if yoju enter marks=55; output= passed. if marks=22; output=no output.
+
+for if else condition: pass or fail, above 40 is passed.
+#include<stdio.h>
+int main(){
+int marks;
+printf("enter marks=\n");
+scanf("%d",&marks);
+if (marks>=40);
+{printf("passed\n");}
+else { printf("failed\n"); }
+return 0;
+}
