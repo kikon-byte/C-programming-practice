@@ -4,7 +4,7 @@ int main() {
 int marks;
 printf("enter marks= \n");
 scanf("%d",&marks);
-if(marks>=40);
+if(marks>=40)
 { printf("passed\n"); }
 return 0;
 }
@@ -16,7 +16,7 @@ int main(){
 int marks;
 printf("enter marks=\n");
 scanf("%d",&marks);
-if (marks>=40);
+if (marks>=40)
 {printf("passed\n");}
 else { printf("failed\n"); }
 return 0;
