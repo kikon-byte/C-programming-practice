@@ -1,0 +1,15 @@
+operators             meaninig              example
+>                    greater than            a>b
+<                    less than               a<b
+>=                   greater than or equal   a>=b
+<=                   less than or equal to   a<=b
+==                   equal to                a=b
+!=                   not equal to            a!=b
+here note that; == and = has different meanings.
+= : is called asssignment operator ( eg int position=2)
+==  : is calles comparison operator (eg a==b, if a=2,b=2 )
+ IF ELSE STATEMENTS:                                                                                   
+allowing computer to make a decision is called if statement 
+helps us to run acode incase the condition is not satisfied:else statement                                     
+                                     
+                                     
